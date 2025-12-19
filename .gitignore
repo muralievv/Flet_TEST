@@ -2,3 +2,5 @@ venv
 /venv
 __pycache__
 __pycache__/
+db_market_db
+Tedst/db_market_db
