@@ -3,4 +3,4 @@ venv
 __pycache__
 __pycache__/
 db_market.db
-Tedst/db_market.db
+Test/db_market.db
